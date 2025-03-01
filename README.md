@@ -25,4 +25,4 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 ## Contact
 - Feel free to contact me about anything at mrtineu416@gmail.com
 
-and at last no sorry I don't know how to fix your printer, sorry
+and at last no sorry I don't know how to fix your printer.
