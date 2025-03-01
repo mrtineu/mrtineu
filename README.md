@@ -12,4 +12,9 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - CSS  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='15'/> (required blasphemy)
 - C# <img src = "https://github.com/mrtineu/mrtineu/blob/main/c-sharp-c.svg" width='15' />(better Java<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='15'/>)
 ## Technologies
-
+- FastAPI  <img src = "https://github.com/mrtineu/mrtineu/blob/main/FastAPI.svg" width='15' />
+- Flask  <img src = "https://github.com/mrtineu/mrtineu/blob/main/flask.svg" width='15' />
+- Android  <img src = "https://github.com/mrtineu/mrtineu/blob/main/android-6.svg" width='15' />
+- SuperTokens  <img src = "https://github.com/mrtineu/mrtineu/blob/main/supertokens-icon-seeklogo.svg" width='15' />
+- Vue  <img src = "https://github.com/mrtineu/mrtineu/blob/main/vue-svgrepo-com.svg" width='15' />
+- Figma  <img src = "https://github.com/mrtineu/mrtineu/blob/main/Figma-logo.svg" width='15' height='15' />
