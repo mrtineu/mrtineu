@@ -17,4 +17,5 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - Android  <img src = "https://github.com/mrtineu/mrtineu/blob/main/android-6.svg" width='15' />
 - SuperTokens  <img src = "https://github.com/mrtineu/mrtineu/blob/main/supertokens-icon-seeklogo.svg" width='15' />
 - Vue  <img src = "https://github.com/mrtineu/mrtineu/blob/main/vue-svgrepo-com.svg" width='15' />
+- Tailwind CSS  <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width='15' height='15' />
 - Figma  <img src = "https://github.com/mrtineu/mrtineu/blob/main/Figma-logo.svg" width='15' height='15' />
