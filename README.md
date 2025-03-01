@@ -24,3 +24,5 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - Computer 🖥️ (I guess this is obvious)
 ## Contact
 - Feel free to contact me about anything at mrtineu416@gmail.com
+
+and at last no sorry I don't know how to fix your printer, sorry
