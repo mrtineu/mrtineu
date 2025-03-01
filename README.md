@@ -10,5 +10,6 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - Kotlin <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='15'/> (I despise Java<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='15'/> so I use this instead for Android development)
 - HTML <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='15'/> (I know it's not a programming language, but where would I put it?)
 - CSS  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='15'/> (required blasphemy)
-- C# <img src = ""/>(better Java<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='15'/>)
+- C# <img src = "https://github.com/mrtineu/mrtineu/blob/main/c-sharp-c.svg" width='15' />(better Java<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='15'/>)
+## Technologies
 
