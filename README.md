@@ -4,6 +4,7 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - I'm a high school student in Slovakia, studying **software development** 📘
 - Logistics and inner workings of the world always intrested me(that's why I love Factorio) ⚙️
 - Intrested in economics💵, math🖩, space🚀 and hacking(of course the ethical one)🐱‍💻
+- I love learning about machine learning and data sience🤖
 - I drop random facts at random times🎲
 ## Programming languages 🗣️
 - Python <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='15'/> (I know this best, used it in lot of usecases)
