@@ -24,6 +24,6 @@ There are just two kinds of people, ones which get asked to fix the printer and 
 - Figma  <img src = "https://github.com/mrtineu/mrtineu/blob/main/Figma-logo.svg" width='15' height='15' /> (he told me he'll comment just a few mistakes, 28 comments later)
 - Computer 🖥️ (I guess this is obvious)
 ## Contact
-- Feel free to contact me about anything at mrtineu416@gmail.com
+- Feel free to contact me about anything at hello@mrtineu.com
 
 and at last no sorry I don't know how to fix your printer.
